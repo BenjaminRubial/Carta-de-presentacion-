@@ -19,3 +19,16 @@ header h1{
 .p1 {
     margin: 10px;
 }
+
+.p2 {
+    margin: 10px 20px;
+}
+
+.p3 {
+    margin: 10px 20px;
+}
+
+footer h3 {
+    margin: 10px;
+}
+
