@@ -21,19 +21,24 @@ header h1{
 
 .p1 {
     margin: 10px;
+    font-size: x-large;
+    
 }
 
 .p2 {
     margin: 10px 20px;
+    font-size: large;
 }
 
 .p3 {
     margin: 10px 20px;
+    font-size: large;
 }
 
 footer h3 {
     margin: 10px;
     font-weight: normal;
+    font-size: x-large;
 }
 
 a {
